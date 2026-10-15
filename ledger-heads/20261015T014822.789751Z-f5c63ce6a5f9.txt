@@ -1,0 +1,1 @@
+{"head":"f5c63ce6a5f95bfa2525910b13116ba5f4f5dfeebe2c77acc757de26c71bc3bb","observed_utc":"2026-10-15T01:48:22.791785+00:00","seq":140504}
